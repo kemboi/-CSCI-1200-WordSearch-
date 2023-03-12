@@ -1,6 +1,6 @@
 # CSCI-1200-WordSearch
-RPI CSCI-1200, Fall 2009/Spring 2017, Homework 6 - Inverse Word Search Recursion <br />
-By Erebuxy
+Inverse Word Search Recursion <br />
+
 
 ## Usage
 ```shell
